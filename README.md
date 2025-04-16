@@ -1,4 +1,4 @@
-# 💘 Speed Dating Data Analysis
+# 💘 Speed Dating Data Analysis 💘 
 
 This project explores behavioral and psychological patterns behind dating decisions, using real-world speed dating data collected from events at Columbia University. The analysis aims to understand what drives interest, mutual matches, and follow-up actions.
 
