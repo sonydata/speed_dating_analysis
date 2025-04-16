@@ -81,7 +81,7 @@ You can find structured insights in **Step 4: Interpretation & Insights** of the
 | Folder/File                    | Description                                      |
 |-------------------------------|--------------------------------------------------|
 | `Speed_dating_analysis.ipynb` | Main notebook for analysis & insights            |
-| `/images` (if added)          | Visualizations (radar charts, plots)             |
+| `/images`                     | Visualizations (radar charts, plots)             |
 | `README.md`                   | Project overview and documentation               |
 
 ---
