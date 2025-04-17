@@ -16,7 +16,7 @@ This project investigates behavioral and psychological patterns underlying attra
 
 ---
 
-## 🧠 Project Goal
+## Project Goal
 
 **Main question:** _What makes people interested in each other during speed dating?_
 
