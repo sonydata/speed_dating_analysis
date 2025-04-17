@@ -71,8 +71,8 @@ All plots and figures used in the notebook are saved in the [`images/`](images/)
 - Correlation bar charts
 - Match rate plots
 - Radar charts by gender and perception
-- Decision tree for second date prediction
 - Line plots for decision order effects
+- Decision tree for second date prediction
 
 ---
 
