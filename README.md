@@ -9,7 +9,7 @@ This project investigates behavioral and psychological patterns underlying attra
 | File / Folder                   | Description                                               |
 |--------------------------------|-----------------------------------------------------------|
 | `Speed_dating_analysis.ipynb`  | Main Jupyter Notebook with full analysis and insights     |
-| `Speed+Dating+Data.csv`        | Razw dataset with participant and interaction data     |
+| `Speed+Dating+Data.csv`        | Raw dataset with participant and interaction data     |
 | `Speed+Dating+Data+Key.doc`    | Official variable dictionary / metadata                   |
 | `images/`                      | Folder containing visualizations used in the notebook     |
 | `README.md`                    | Project overview (this file)                              |
